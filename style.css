@@ -1,0 +1,83 @@
+body{
+    background-image: url('./background.png');
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1{
+    color: white;
+}
+
+
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
+
+.card-body {
+    flex-grow: 1;
+}
+
+.card img {
+    max-height: 300px; /* altura de la imagen */
+    object-fit: cover;  
+    width: 100%;
+}  
+
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1; /* Esto empuja el footer hacia abajo */
+}
+
+
+.btn{
+    background-color: hsl(211, 79%, 15%);
+}
+
+.btn:hover{
+    background-color: #115dad;
+}
+
+.footer {
+    position: relative;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #34323c;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-text {
+    margin: 0;
+}
+
+.footer-iconTop {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.footer-iconTop a {
+    padding: 10px;
+    color: #007bff;
+    border-radius: 2rem;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+}
+
+.footer-iconTop a:hover {
+    color: #0056b3;
+}

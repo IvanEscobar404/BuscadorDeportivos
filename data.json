@@ -1,0 +1,437 @@
+[
+    {
+        "id": 1,
+        "marca": "Ferrari",
+        "modelo": "488 Spider",
+        "año": 2020,
+        "descripcion": "Deportivo con motor V8, diseño aerodinámico y altas prestaciones.",
+        "img": "https://ferrariclubarg.com.ar/wp-content/uploads/how-much-is-a-ferrari-spider-488-red.webp",
+        "caballos": "720 HP"
+    },
+    {
+        "id": 2,
+        "marca": "Lamborghini",
+        "modelo": "Huracan Evo",
+        "año": 2021,
+        "descripcion": "Superdeportivo con tracción integral y motor V10.",
+        "img": "https://www.alainclass.com/wp-content/uploads/2023/03/2020-Lamborghini-Huracan-EVO-Red-3917-6.jpg",
+        "caballos": "610 HP"
+    },
+    {
+        "id": 3,
+        "marca": "Porsche",
+        "modelo": "911 Turbo S",
+        "año": 2022,
+        "descripcion": "Deportivo con tracción trasera y tecnología de punta.",
+        "img": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/ES-PLA-local/2022/Vehiculos/El-nuevo-Porsche-911-Turbo-S-llega-Ecuador/PLA22_1125_fine.jpg/jcr:content/PLA22_1125_fine.jpg",
+        "caballos": "650 HP"
+    },
+    {
+        "id": 4,
+        "marca": "McLaren",
+        "modelo": "720S",
+        "año": 2020,
+        "descripcion": "Superdeportivo con motor V8, aerodinámico y muy rápido.",
+        "img":"https://moottori.fi/wp-content/uploads/2017/03/McLaren_720S_2017_LA-1.jpg",
+        "caballos": "710 HP"
+    },
+    {
+        "id": 5,
+        "marca": "Tesla",
+        "modelo": "Model S Plaid",
+        "año": 2022,
+        "descripcion": "Sedán eléctrico con aceleración impresionante y tecnología avanzada.",
+        "img":"https://media.ed.edmunds-media.com/tesla/model-s/2024/oem/2024_tesla_model-s_sedan_plaid_fq_oem_1_1280.jpg",
+        "caballos": "671 HP"
+    },
+    {
+        "id": 6,
+        "marca": "BMW",
+        "modelo": "M4",
+        "año": 2021,
+        "descripcion": "Coupé deportivo con tracción trasera y motor potente.",
+        "img": "https://www.wcmbarcelona.com/wp-content/uploads/2022/01/IMG_7712-scaled.jpg",
+        "caballos": "510 HP"
+    },
+    {
+        "id": 7,
+        "marca": "Audi",
+        "modelo": "R8",
+        "año": 2020,
+        "descripcion": "Superdeportivo con motor V10 y diseño icónico.",
+        "img": "https://www.megautos.com/wp-content/uploads/2022/10/Audi-R8-Coupe-V10-GT-RWD-2023-dinamica.jpg",
+        "caballos": "670 HP"
+    },
+    {
+        "id": 8,
+        "marca": "Mercedes-Benz",
+        "modelo": "AMG GT",
+        "año": 2019,
+        "descripcion": "Deportivo de lujo con un motor poderoso y tracción trasera.",
+        "img": "https://www.exclusiveautomotivegroup.com/imagetag/3312/main/l/Used-2019-Mercedes-Benz-AMG-GT-R-1691429014.jpg",
+        "caballos": " 465 HP"
+    },
+    {
+        "id": 9,
+        "marca": "Aston Martin",
+        "modelo": "DB11",
+        "año": 2021,
+        "descripcion": "Elegante deportivo con un motor V12 y acabados de lujo.",
+        "img": "https://di-uploads-pod26.dealerinspire.com/mikewardastonmartin/uploads/2022/01/2021-Aston-Martin-DB11-Volante.jpg   ",
+        "caballos": "510 HP"
+    },
+    {
+        "id": 10,
+        "marca": "Chevrolet",
+        "modelo": "Corvette C8",
+        "año": 2022,
+        "descripcion": "Deportivo americano con motor central y rendimiento impresionante.",
+        "img": "https://richmonds.com.au/wp-content/uploads/2023/06/Chevrolet-Corvette-c8-White-2.jpg",
+        "caballos": "610 HP"
+    },
+    {
+        "id": 11,
+        "marca": "Lexus",
+        "modelo": "LC 500",
+        "año": 2020,
+        "descripcion": "Coupé de lujo con diseño futurista y motor V8.",
+        "img": "https://www.platinumautohaus.com/imagetag/13963/7/l/Used-2020-Lexus-LC-500.jpg",
+        "caballos": "340 HP"
+    },
+    {
+        "id": 12,
+        "marca": "Rolls-Royce",
+        "modelo": "Phantom",
+        "año": 2021,
+        "descripcion": "Sedán de ultra lujo con motor V12 y materiales exquisitos.",
+        "img": "https://www.chicagomotorcars.com/imagetag/10227/5/l/Used-2021-Rolls-Royce-Phantom-Mandarine-Interior!-Forgiato-Wheels-Starlight-Headliner!-Phantom-Package!-1669678690.jpg",
+        "caballos": "380 HP"
+    },
+    {
+        "id": 13,
+        "marca": "Bentley",
+        "modelo": "Continental GT",
+        "año": 2021,
+        "descripcion": "Coupé de lujo con un motor W12 y gran confort.",
+        "img": "https://www.millermotorcars.com/imagetag/4573/20/l/New-2021-Bentley-Continental-GT-W12.jpg",
+        "caballos": "450 HP"
+    },
+    {
+        "id": 14,
+        "marca": "Ferrari",
+        "modelo": "Portofino",
+        "año": 2021,
+        "descripcion": "Convertible deportivo con motor V8 y diseño elegante.",
+        "img": "https://www.millermotorcars.com/imagetag/4867/14/l/Used-2020-Ferrari-Portofino.jpg",
+        "caballos": "560 HP"
+    },
+    {
+        "id": 15,
+        "marca": "Lamborghini",
+        "modelo": "Aventador",
+        "año": 2019,
+        "descripcion": "Superdeportivo con motor V12 y puertas de tijera.",
+        "img": "https://cms.gabriel.ca/img/cars/2019-Lamborghini-Aventador-Automobile-Gabriel-St-Laurent-RbuCrWiXqw.jpg",
+        "caballos": "690 HP"
+    },
+    {
+        "id": 16,
+        "marca": "Bugatti",
+        "modelo": "Chiron",
+        "año": 2021,
+        "descripcion": "Hiperdeportivo con motor W16 y velocidad máxima impresionante.",
+        "img": "https://www.paganiofgreenwich.com/imagetag/5933/7/l/Used-2021-Bugatti-Chiron-Pur-Sport.jpg",
+        "caballos": "750 HP "
+    },
+    {
+        "id": 17,
+        "marca": "Maserati",
+        "modelo": "GranTurismo",
+        "año": 2019,
+        "descripcion": "Coupé de lujo con motor V8 y un estilo único.",
+        "img": "https://www.millermotorcars.com/imagetag/3367/main/l/New-2019-Maserati-GranTurismo-Sport-Convertible.jpg",
+        "caballos": "770 HP"
+    },
+    {
+        "id": 18,
+        "marca": "Tesla",
+        "modelo": "Roadster",
+        "año": 2023,
+        "descripcion": "Deportivo eléctrico con una aceleración asombrosa.",
+        "img": "https://cdn.mobilesyrup.com/wp-content/uploads/2021/05/tesla-roadster-scaled.jpg",
+        "caballos": "1000"
+    },
+    {
+        "id": 19,
+        "marca": "Pagani",
+        "modelo": "Huayra",
+        "año": 2020,
+        "descripcion": "Hiperdeportivo con motor AMG y diseño exclusivo.",
+        "img": "https://www.alainclass.com/wp-content/uploads/2022/12/2020-Pagani-Huyara-BC-Roadster-WHITE-6008-3.jpg",
+        "caballos": "690 HP"
+    },
+    {
+        "id": 20,
+        "marca": "Koenigsegg",
+        "modelo": "Jesko",
+        "año": 2021,
+        "descripcion": "Hiperdeportivo con motor V8 y diseño innovador.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg/1200px-GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg",
+        "caballos": "900 HP"
+    },
+    {
+        "id": 21,
+        "marca": "Mercedes-Benz",
+        "modelo": "S-Class",
+        "año": 2020,
+        "descripcion": "Sedán de lujo con tecnología avanzada y confort inigualable.",
+        "img": "https://static.cargurus.com/images/forsale/2024/08/30/09/12/2020_mercedes-benz_s-class-pic-7875917903114750729-1024x768.jpeg",
+        "caballos": "500 HP"
+    },
+    {
+        "id": 22,
+        "marca": "BMW",
+        "modelo": "7 Series",
+        "año": 2021,
+        "descripcion": "Sedán de lujo con un interior espacioso y características innovadoras.",
+        "img": "https://www.motorbiscuit.com/wp-content/uploads/2021/06/BMW-7-Series.jpg?w=1024&h=683&strip=all&quality=89",
+        "caballos": "600 HP"
+    },
+    {
+        "id": 23,
+        "marca": "Audi",
+        "modelo": "A8",
+        "año": 2020,
+        "descripcion": "Sedán de lujo con tracción integral y un diseño sofisticado.",
+        "img": "https://images.hgmsites.net/hug/2020-audi-a8_100708460_h.jpg",
+        "caballos": "710 HP"
+    },
+    {
+        "id": 24,
+        "marca": "Genesis",
+        "modelo": "G90",
+        "año": 2021,
+        "descripcion": "Sedán de lujo con tecnología avanzada y confort superior.",
+        "img": "https://s.auto.drom.ru/d24295/foreignimport/845265995/930457070.jpg",
+        "caballos": "450 HP"
+    },
+    {
+        "id": 25,
+        "marca": "Cadillac",
+        "modelo": "Escalade",
+        "año": 2021,
+        "descripcion": "SUV de lujo con gran tamaño y presencia.",
+        "img": "https://cadillacsociety.com/wp-content/uploads/2021/02/2021-Cadillac-Escalade-Sport-Onyx-Package-Black-Raven-Exterior-011-front-three-quarters-1024x768.jpg",
+        "caballos": "340 HP"
+    },
+    {
+        "id": 26,
+        "marca": "Land Rover",
+        "modelo": "Range Rover",
+        "año": 2020,
+        "descripcion": "SUV de lujo con capacidad todoterreno y un interior sofisticado.",
+        "img": "https://www.chicagomotorcars.com/imagetag/6926/2/l/Used-2020-Land-Rover-Range-Rover-Sport-P525-HSE-Dynamic-V8-50-SC-MSRP-95K+-ONLY-3500-MILES!-1590789596.jpg",
+        "caballos":" 465 HP"
+    },
+    {
+        "id": 27,
+        "marca": "Porsche",
+        "modelo": "Cayenne",
+        "año": 2019,
+        "descripcion": "SUV deportivo con gran rendimiento y versatilidad.",
+        "img": "https://fcrautos.com/wp-content/uploads/2024/09/0-9.jpg",
+        "caballos": "650 HP"
+    },
+    {
+        "id": 28,
+        "marca": "Lamborghini",
+        "modelo": "Urus",
+        "año": 2021,
+        "descripcion": "Super SUV con motor V8 y un rendimiento sobresaliente.",
+        "img": "https://www.alainclass.com/wp-content/uploads/2021/05/2021-Lamborghini-Urus-GREY-2461-3.jpg",
+        "caballos": " 465 HP"
+    },
+    {
+        "id": 29,
+        "marca": "Aston Martin",
+        "modelo": "DBX",
+        "año": 2020,
+        "descripcion": "SUV de lujo con prestaciones deportivas y estilo.",
+        "img": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2020/03/aston-martin-dbx-1898525.jpg?tf=3840x",
+        "caballos": "850 HP"
+    },
+    {
+        "id": 30,
+        "marca": "Ferrari",
+        "modelo": "Roma",
+        "año": 2021,
+        "descripcion": "Coupé elegante con motor V8 y un diseño moderno.",
+        "img": "https://gcbimages.s3.us-west-001.backblazeb2.com/d4/2994/3204521/35358191/s/bda89d5ad6c34b3daf35c0cb8d7112e2.jpg",
+        "caballos": "730 HP"
+    },
+    {
+        "id": 31,
+        "marca": "Bentley",
+        "modelo": "Bentayga",
+        "año": 2021,
+        "descripcion": "SUV de ultra lujo con un motor potente y confort absoluto.",
+        "img": "https://cdn.dealeraccelerate.com/ld/3/2508/145035/790x1024/2021-bentley-bentayga",
+        "caballos": "450 HP"
+    },
+    {
+        "id": 32,
+        "marca": "McLaren",
+        "modelo": "GT",
+        "año": 2020,
+        "descripcion": "Gran Turismo con motor V8 y una experiencia de conducción emocionante.",
+        "img": "https://www.alfaromeoofwestport.com/imagetag/3600/main/l/New-2020-McLaren-GT-Luxe.jpg",
+        "caballos":"720 HP"
+    },
+    {
+        "id": 33,
+        "marca": "Rolls-Royce",
+        "modelo": "Cullinan",
+        "año": 2021,
+        "descripcion": "SUV de ultra lujo con tracción integral y acabados inigualables.",
+        "img": "https://www.ilussopalmbeach.com/imagetag/2493/main/l/Used-2021-Rolls-Royce-Cullinan-1698712213.jpg",
+        "caballos": "510 HP"
+    },
+    {
+        "id": 34,
+        "marca": "Bugatti",
+        "modelo": "Veyron",
+        "año": 2019,
+        "descripcion": "Hiperdeportivo con motor W16 y un diseño icónico.",
+        "img": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2016/04/26/14616693738622.jpg",
+        "caballos": "1100"
+    },
+    {
+        "id": 35,
+        "marca": "Ferrari",
+        "modelo": "F8 Tributo",
+        "año": 2021,
+        "descripcion": "Deportivo con motor V8 y una experiencia de conducción pura.",
+        "img": "https://www.lamborghinigoldcoast.com/imagetag/9205/2/l/Used-2021-Ferrari-F8-Tributo-1622328307.jpg",
+        "caballos": "670 HP"
+    },
+    {
+        "id": 36,
+        "marca": "Tesla",
+        "modelo": "Model X",
+        "año": 2021,
+        "descripcion": "SUV eléctrico con puertas de halcón y tecnología avanzada.",
+        "img": "https://pugrenting.com/wp-content/uploads/2022/08/renting-tesla-model-x-5.webp"
+    },
+    {
+        "id": 37,
+        "marca": "Porsche",
+        "modelo": "Taycan",
+        "año": 2021,
+        "descripcion": "Deportivo eléctrico con tracción total y un rendimiento sobresaliente.",
+        "img": "https://cdn.elferspot.com/wp-content/uploads/2021/06/Porsche-Taycan-kaufen-Deutschland-9.jpeg?class=xl"
+    },
+    {
+        "id": 38,
+        "marca": "Mercedes-Benz",
+        "modelo": "G-Class",
+        "año": 2021,
+        "descripcion": "SUV icónico con capacidad todoterreno y lujo.",
+        "img": "https://www.motortrend.com/uploads/sites/5/2021/05/Custom-Hofele-Mercedes-AMG-G-63-170.jpg"
+    },
+    {
+        "id": 39,
+        "marca": "Audi",
+        "modelo": "RS Q8",
+        "año": 2021,
+        "descripcion": "SUV deportivo con motor V8 y un diseño agresivo.",
+        "img": "https://vehicle-images.dealerinspire.com/e30b-210007648/WU1ARAF11MD038919/34fd30f7ac760e98ce77dc0885facbc0.jpg"
+    },
+    {
+        "id": 40,
+        "marca": "BMW",
+        "modelo": "X7",
+        "año": 2021,
+        "descripcion": "SUV de lujo con tres filas de asientos y un gran confort.",
+        "img": "https://vehicle-images.dealerinspire.com/ea3d-110007412/5UXCW2C08M9G74497/33b9c75eeeabf591c9b1e2fcae35eb98.jpg"
+    },
+    {
+        "id": 41,
+        "marca": "Lexus",
+        "modelo": "LS",
+        "año": 2021,
+        "descripcion": "Sedán de lujo con características avanzadas y un diseño elegante.",
+        "img": "https://www.motortrend.com/uploads/sites/5/2021/02/2021-Lexus-LS-500-RWD-14.jpg"
+    },
+    {
+        "id": 42,
+        "marca": "Maserati",
+        "modelo": "Levante",
+        "año": 2021,
+        "descripcion": "SUV de lujo con motor V6 y un estilo único.",
+        "img": "https://i.ytimg.com/vi/_9-lhUA2ZhA/maxresdefault.jpg"
+    },
+    {
+        "id": 43,
+        "marca": "Jaguar",
+        "modelo": "F-Type",
+        "año": 2021,
+        "descripcion": "Deportivo con tracción trasera y un diseño elegante.",
+        "img": "https://cafrealvolante.com/wp-content/uploads/2020/12/dsc_0009-1.jpg"
+    },
+    {
+        "id": 44,
+        "marca": "Aston Martin",
+        "modelo": "Vantage",
+        "año": 2020,
+        "descripcion": "Deportivo con motor V8 y una experiencia de conducción intensa.",
+        "img": "https://www.millermotorcars.com/imagetag/3394/main/l/New-2020-Aston-Martin-Vantage-Coupe.jpg"
+    },
+    {
+        "id": 45,
+        "marca": "Ford",
+        "modelo": "GT",
+        "año": 2021,
+        "descripcion": "Superdeportivo americano con un diseño aerodinámico y motor potente.",
+        "img": "https://bringatrailer.com/wp-content/uploads/2023/11/2021_ford_gt_1000_web-37711.jpg    "
+    },
+    {
+        "id": 46,
+        "marca": "Chevrolet",
+        "modelo": "Camaro ZL1",
+        "año": 2020,
+        "descripcion": "Deportivo americano con motor V8 y gran rendimiento.",
+        "img": "https://www.perfectautocollection.com/imagetag/3169/2/l/Used-2020-Chevrolet-Camaro-ZL1-1712178270.jpg"
+    },
+    {
+        "id": 47,
+        "marca": "Nissan",
+        "modelo": "GT-R",
+        "año": 2021,
+        "descripcion": "Deportivo japonés con tracción integral y un motor poderoso.",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/22my-new-gt-r-nismo-3755-source-1618397894.jpg"
+    },
+    {
+        "id": 48,
+        "marca": "Dodge",
+        "modelo": "Challenger SRT Hellcat",
+        "año": 2020,
+        "descripcion": "Deportivo americano con motor V8 y potencia increíble.",
+        "img": "https://www.amencars.es/wp-content/uploads/2023/03/Dodge-Challenger-SRT-Hellcat-Redeye-Widebody.jpg"
+    },
+    {
+        "id": 49,
+        "marca": "Alfa Romeo",
+        "modelo": "Giulia Quadrifoglio",
+        "año": 2021,
+        "descripcion": "Sedán deportivo con motor V6 y un manejo preciso.",
+        "img": "https://www.millermotorcars.com/imagetag/4888/2/l/New-2021-Alfa-Romeo-Giulia-Quadrifoglio.jpg"
+    },
+    {
+        "id": 50,
+        "marca": "McLaren",
+        "modelo": "Speedtail",
+        "año": 2021,
+        "descripcion": "Hiperdeportivo con diseño futurista y velocidad impresionante.",
+        "img": "https://i0.wp.com/luxurypulse.com/img/pictures/62161f1f21cdc$_57.jpeg?ssl=1"
+    }
+]
